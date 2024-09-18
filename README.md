@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berpinheiroo&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Intern & Student focused on acquiring new knowledge in the field of programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Next.JS and Typescript
 - 💬 Ask me about **JavaScript, Typescript, Node.JS, Next.JS, React**
 - 👨‍💻 More at [Linkedin](https://www.linkedin.com/in/bernardo-mpinheiro)
 <br><br>
