@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [VAMO](https://vamo.com.vc/)
 
-- 🌱 I’m currently learning **Docker, Vite**
+- 🌱 I’m currently learning **Next.js, Shadcn/ui**
 
 - 💬 Ask me about **React, Tailwind, Typescript**
 
