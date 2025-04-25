@@ -3,7 +3,7 @@
 ### Desenvolvedor de Software
 
 [![Linkedin Badge](https://img.shields.io/badge/-Meu%20LinkedIn-009dff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-mpinheiro/)](https://www.linkedin.com/in/bernardo-mpinheiro/) 
-[![Gmail Badge](https://img.shields.io/badge/-berpinheiroo@gmail.com-009dff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:berpinheiroo@gmail.com)](mailto:berpinheiroo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dev.bernardo@hotmail.com-009dff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.bernardo@hotmail.com)](mailto:dev.bernardo@hotmail.com)
 
 Meu nome é Bernardo Pinheiro, ou “Bê” (é como me chamam). Sou Desenvolvedor de Software e Automações. Sou extremamente apaixonado por computação e cultura do RAP.
 
