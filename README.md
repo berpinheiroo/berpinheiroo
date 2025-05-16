@@ -1,13 +1,25 @@
-# Bernardo Pinheiro
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Desenvolvedor de Software
+<p align="left"> 
+  Me chamo Bernardo, atualmente sou Desenvolvedor Full-Stack Junior na Voe Vamo.
+  Estou aprimorando minhas habilidades em DevOPS na plataforma DIO.
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Meu%20LinkedIn-009dff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-mpinheiro/)](https://www.linkedin.com/in/bernardo-mpinheiro/) 
-[![Gmail Badge](https://img.shields.io/badge/-dev.bernardo@hotmail.com-009dff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.bernardo@hotmail.com)](mailto:dev.bernardo@hotmail.com)
+<p align="left">
+  🦄 Linguagens: Typescript, Javascript, Java, Python, React, Tailwind, Bootstrap
+</p>
 
-Meu nome é Bernardo Pinheiro, ou “Bê” (é como me chamam). Sou Desenvolvedor Full Stack. Sou extremamente apaixonado por computação e cultura do RAP.
+<p align="left">
+  💼 Ferramentas: Docker, Grafana, Prometheus, VSCode
+</p>
 
-Minha primeira experiência com código foi na época da escola, em aulas de robótica. Lembro-me de estar com meus colegas, criando movimentos para robôs de lego imbutidos com peças de robótica. 
-Foi uma sensação incrível ver os passos fluírem de acordo com o que eu programava, então levei isto como meta de carreira, programar.
+<p align="left">
+  💌 Entre em contato comigo: ⤵️
+</p>
 
-**Precisando de projeto novo para sua empresa? Entre em contato e vamos criar algo incrível juntos.**
+<p align="left">
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-mpinheiro/" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/dev.bernardo/" alt="Instagram"/></a>
+</p>
