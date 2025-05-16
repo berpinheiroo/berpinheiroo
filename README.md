@@ -1,25 +1,24 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400px" align="right" />
 
-<p align="left"> 
-  Me chamo Bernardo, atualmente sou Desenvolvedor Full-Stack Junior na Voe Vamo.
-  Estou aprimorando minhas habilidades em DevOPS na plataforma DIO.
-</p>
+### Olá! 👋 Me chamo Bernardo
 
-<p align="left">
-  🦄 Linguagens: Typescript, Javascript, Java, Python, React, Tailwind, Bootstrap
-</p>
+Sou **Desenvolvedor Full-Stack Júnior** na **[Voe Vamo](https://www.voevamo.com.br)**  
+Atualmente estou aprimorando minhas habilidades em **DevOps** na plataforma **[DIO](https://www.dio.me/)**.
 
-<p align="left">
-  💼 Ferramentas: Docker, Grafana, Prometheus, VSCode
-</p>
+---
 
-<p align="left">
-  💌 Entre em contato comigo: ⤵️
-</p>
+### 🦄 Tecnologias que utilizo:
 
-<p align="left">
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-mpinheiro/" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/dev.bernardo/" alt="Instagram"/></a>
-</p>
+- **Linguagens**: TypeScript, JavaScript, Java, Python  
+- **Frameworks & Estilos**: React, Tailwind CSS, Bootstrap  
+- **Ferramentas**: Docker, Grafana, Prometheus, VSCode
+
+---
+
+### 💌 Entre em contato comigo:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-mpinheiro/)
+[![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dev.bernardo/)
+
+---
+
